@@ -1,4 +1,4 @@
-# Demo repo for roxiness/routify issue [#338]
+# Demo repo for roxiness/routify issue [#338](https://github.com/roxiness/routify/issues/338)
 
 To reconstruct the issue run
 ```bash
