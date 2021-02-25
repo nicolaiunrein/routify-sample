@@ -1,0 +1,14 @@
+{
+  "name": "routify-sample",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate roxiness/routify \u0016#338",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@roxi/routify": "^2.12.7",
+    "svelte": "^3.32.3"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
